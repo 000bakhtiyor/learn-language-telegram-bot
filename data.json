@@ -1,0 +1,15 @@
+{
+    "welcome":"Hello guys, What's your name?",
+    "new_word":"Enter new word:",
+    "translated_word":"Enter translated word:",
+    "errors":{
+        "database_connecting_error":"Error: Database is not connected",
+        "creating_new_user_error": "Some error in here.Please try again",
+        "creating_new_word":"Some error in here.Please try again"
+    },
+    "success_messages":{
+        "database_successfully_connected":"Database is connected"
+    },
+    "test": "test"
+
+}
